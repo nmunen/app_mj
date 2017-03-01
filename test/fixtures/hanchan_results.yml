@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hanchan_id: MyString
+  player_id: MyString
+  yen_points: 1
+  yen_yakitori: 1
+  yen_tobi: 1
+  yen_umaoka: 1
+  yen_total: 1
+
+two:
+  hanchan_id: MyString
+  player_id: MyString
+  yen_points: 1
+  yen_yakitori: 1
+  yen_tobi: 1
+  yen_umaoka: 1
+  yen_total: 1

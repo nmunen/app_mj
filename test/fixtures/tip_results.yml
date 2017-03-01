@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  match_id: MyString
+  player_id: MyString
+  yen_tip: 1
+
+two:
+  match_id: MyString
+  player_id: MyString
+  yen_tip: 1

@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  match_id: MyString
+  hanchan_id: MyString
+  player_id: MyString
+  points: 1
+  is_baked: false
+  bird_point: 1
+  is_flied: false
+  is_flying: false
+
+two:
+  match_id: MyString
+  hanchan_id: MyString
+  player_id: MyString
+  points: 1
+  is_baked: false
+  bird_point: 1
+  is_flied: false
+  is_flying: false

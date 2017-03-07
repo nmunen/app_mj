@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   namespace :api do
-    resources :players, only: [:index,:show,:update,:destroy]
+    resources :players, only: [:index,:create,:show,:update,:destroy]
     resources :matches, param: :match_id, only: [:index,:show] 
     resources :matches, only: [] do 
       resources :calculate_match,only: [:create]
